@@ -1,4 +1,4 @@
 # news-website
 ----
 
--   Website Link : click [here](https://Nishadbeauti121.github.io/shopping-website/nesportal.html)
+-   Website Link : click [here](https://nishadbeauti121.github.io/news-website/nesportal.html)
